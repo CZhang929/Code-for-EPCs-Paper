@@ -11,7 +11,7 @@ This attribution applies to EDA plots Fig 6, Fig. A2, Fig A3, Fig A4, Fig A5.
 The modelling, analysis, and results presented in the associated article are original to this study.
 All figures in this repository were generated independently using the dataset described in the paper https://doi.org/10.1016/j.enpol.2025.115057.
 
-Codes are available for:
+## Codes are available for:
 Model 1
 Random Forest
 Model 2
